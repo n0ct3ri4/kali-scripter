@@ -1,0 +1,32 @@
+{
+  "name": "kaliscripter",
+  "version": "1.1.7",
+  "description": "Make anything you want easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0ct3ri4/kaliscripter.git"
+  },
+  "keywords": [
+    "kali",
+    "kaliscripter",
+    "ks",
+    "kazzookay"
+  ],
+  "author": "n0ct3ri4",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/n0ct3ri4/kaliscripter/issues"
+  },
+  "homepage": "https://github.com/n0ct3ri4/kaliscripter#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "https": "^1.0.0"
+  }
+}
